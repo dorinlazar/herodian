@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:contributor opf:role="bkp">calibre (6.16.0) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2023-04-26T16:06:21.284036+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">077cc97f-22af-4226-95f9-faea8deaad95</dc:identifier>
+    <dc:identifier opf:scheme="calibre">077cc97f-22af-4226-95f9-faea8deaad95</dc:identifier>
+    <dc:title>Herodian's Roman History</dc:title>
+    <dc:creator opf:role="aut">Herodian</dc:creator>
+    <meta name="calibre:title_sort" content="Roman History"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <!-- <item id="cover" href="cover_image.jpg" media-type="image/jpeg"/> -->
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Title page"/>
+  </guide>
+</package>

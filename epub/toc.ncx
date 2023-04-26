@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="077cc97f-22af-4226-95f9-faea8deaad95"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.16.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Herodian's Roman History</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uNO7OnCKpLTVZ8ABT9Zj9E2" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
